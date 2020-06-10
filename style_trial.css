@@ -1,0 +1,57 @@
+.nav_container{    
+    display: flex;
+    background-color: #EDEEF0 ;
+    justify-content: flex-end;
+}
+
+.nav_container>div{    
+    padding: 15pt;     
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    justify-content: flex-end !important;
+}
+
+.prograd_name{    
+    display: flex;
+    background-color: #EDEEF0 ;
+    justify-content: flex-start;
+    position: absolute;
+    padding: 14pt;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: #F05338;
+    font-weight: bold;
+    font-size: large;    
+}
+
+.contact{    
+     background-color:#F05338;
+    color:blanchedalmond;
+    margin-right: 10pt;
+    
+}
+
+.second_section{    
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+    background-color: black;    
+    height: 300pt;
+    
+}
+
+.second_section p{
+    margin-top: 0px;
+    color: #B4B3B4;
+    padding-top: 105pt;
+}
+.second_section h1{
+    color: white;
+    font-weight: normal;
+}
+
+#p1tag{
+    padding-right: 32%; 
+    border-bottom: 10px;   
+}
+
+#h1tag{
+    margin-top: -10px;
+}
