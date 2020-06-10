@@ -1,0 +1,27 @@
+.nav_container{    
+    display: flex;
+    background-color: #EDEEF0 ;
+    justify-content: flex-end;
+}
+
+.nav_container>div{    
+    padding: 15pt;     
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.prograd_name{    
+    display: flex;
+    background-color: #EDEEF0 ;
+    justify-content: flex-start;
+    position: absolute;
+    padding: 14pt;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: #F05338;
+    font-weight: bold;
+    font-size: large;    
+}
+
+.contact{    
+    background-color:#F05338;
+    
+}
